@@ -1,0 +1,33 @@
+Django Girls
+Oct. 10, 2015
+Woodland Hall, Chatham University (Shadyside Campus)
+
+We are looking forward to the Django Girls workshop on Oct. 10. We'd like to thank our sponsors for making this event possible:
+
+* Google
+* Chatham University
+* Idea Foundry
+* Schell Games
+* Maxxeng
+
+We are going to run through the whole process of installing Python and the Django framework on the attendees' laptops. Then we will build a website following the tutorial here: http://tutorial.djangogirls.org/en/index.html.
+
+Attendees will meet in small groups with a mentor to help the group get through the tutorial. We will most likely not finish the whole tutorial during the event. The goal is to give the attendees all the tools they will need to build and deploy a web application.
+
+We have roughly 20-25 attendees, and there will be one mentor for each group of three attendees.
+
+Please be available as early as 8 AM. We will be available to help anyone who is having troubles getting the dependencies installed. If you are unable to get there until 9, let us know.
+
+If you are willing to help attendees via Google Hangout, Skype or email before the event, let us know and we will pair you with one or two attendees as dedicated support. 
+
+Please read the coach's manual here: http://coach.djangogirls.org/index.html.
+
+The day will look like this:
+
+8:00 AM: Installation
+9:00 AM: Workshop
+12:00 PM: Lunch (and lightning talk)
+1:00 PM: Workshop
+5:00 PM: Wrap Up!
+
+Let us know if you have any questions!
